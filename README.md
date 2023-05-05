@@ -8,5 +8,5 @@ El proyecto en git debe tener el nombre CritSectionSem
 
 # SOLUCIÓN
 
-- DekkerLock.py -> Programa usando Lock
-- Dekker -> Programa usando BoundedSemaphore
+- DekkerLock.py             -> Programa usando Lock
+- DekkerBoundedSemaphore.py -> Programa usando BoundedSemaphore
